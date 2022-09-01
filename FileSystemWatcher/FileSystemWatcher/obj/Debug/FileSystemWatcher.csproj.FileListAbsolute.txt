@@ -1,0 +1,12 @@
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.manifest
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.application
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe.manifest
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.application
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\Users\boraraz\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
